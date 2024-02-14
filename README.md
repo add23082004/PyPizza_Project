@@ -1,13 +1,14 @@
-# PyPizza_project
-Dans le cadre de mon poste actuel chez Python Pizza, ma mission consiste à développer un programme automatisé de commande de pizzas. Cela implique le calcul méticuleux de la facture finale en fonction des préférences spécifiées par l'utilisateur. La structure tarifaire se présente comme suit :
+As part of my current position at Python Pizza, my mission is to develop an automated pizza ordering program. This involves meticulously calculating the final bill based on the preferences specified by the user. The pricing structure is as follows:
 
-- Petite Pizza : 15 $
-- Pizza Moyenne : 20 $
-- Grande Pizza : 25 $
+Small Pizza: $15
+Medium Pizza: $20
+Large Pizza: $25
 
-Des frais supplémentaires sont appliqués pour les garnitures supplémentaires :
-- Pepperoni pour une Petite Pizza : +2 $
-- Pepperoni pour une Pizza Moyenne ou Grande : +3 $
+Additional charges apply for extra toppings:
 
-De plus, pour les clients désirant une expérience fromagère plus riche :
-- Fromage supplémentaire pour n'importe quelle taille de pizza : +1 $
+Pepperoni for a Small Pizza: +$2
+Pepperoni for a Medium or Large Pizza: +$3
+
+Additionally, for customers desiring a richer cheese experience:
+
+Extra cheese for any size of pizza: +$1
